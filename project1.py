@@ -48,7 +48,7 @@ def main():
 
     elif var_2 == 2:
         print(Fore.YELLOW + Back.BLACK + Style.BRIGHT + "I AM A CHATBOT CREATED BY Ameya")
-        say("Welcome! How can I help you?")
+        say("Welcome Captain! How can i assist you?")
 
         while True:
             query = take_command()
