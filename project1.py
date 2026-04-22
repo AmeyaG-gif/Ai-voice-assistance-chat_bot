@@ -47,7 +47,7 @@ def main():
             print(text_manager(var_1))
 
     elif var_2 == 2:
-        print(Fore.YELLOW + Back.BLACK + Style.BRIGHT + "I AM A CHATBOT CREATED BY TAAHA")
+        print(Fore.YELLOW + Back.BLACK + Style.BRIGHT + "I AM A CHATBOT CREATED BY Ameya")
         say("Welcome! How can I help you?")
 
         while True:
